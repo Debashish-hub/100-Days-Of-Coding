@@ -26,7 +26,7 @@ double MedianOfArrays(vector<int>& array1, vector<int>& array2)
         return a[(m+n)/2];
     }
     if((m+n)%2==0){
-        return float(arr[(m+n)/2]+a[(m+n)/2-1])/2;
+        return float(a[(m+n)/2]+a[(m+n)/2-1])/2;
     }
 }
 
