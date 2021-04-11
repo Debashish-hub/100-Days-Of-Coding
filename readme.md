@@ -1,4 +1,5 @@
 __Code Daiy__
-____
+_________________________________________________________________________
+👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻
 
-Daily coding practise
+Problems solved from various online coding sites such as <b>Geeks for Geeks</b> , <b>LeetCode</b> , <b>HackerRank</b> & <b>Prepbytes</b> by a Computer Science & Engineering student.
