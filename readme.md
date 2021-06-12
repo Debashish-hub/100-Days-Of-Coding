@@ -1,5 +1,12 @@
-__Code Daily__
+# 100 Days Of Coding Challenge
+
 _________________________________________________________________________
 👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻👨💻
 
-Problems solved from various online coding sites such as <b>Geeks for Geeks</b> , <b>LeetCode</b> , <b>HackerRank</b> & <b>Prepbytes</b> with ❤ by a Computer Science & Engineering student [𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘𝖍 𝕶𝖚𝖒𝖆𝖗 𝕾𝖆𝖍𝖔𝖔].
+### Atleast one question a day from the following sites
+<li>Geeks For Geeks</li>
+<li>LeetCode</li>
+<li>HackerRank</li>
+<li>Prepbytes</li>
+ 
+By - 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘𝖍 𝕶𝖚𝖒𝖆𝖗 𝕾𝖆𝖍𝖔𝖔
